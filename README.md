@@ -21,3 +21,5 @@ cp target/release/pyckitup /usr/local/bin/
 pyckitup run    # run local version
 pyckitup build  # build a web version
 ```
+
+Currently, `pyckitup build` doesn't work. It's kind of a low priority for now, as there will be other things added on & restructured in the runtime.
